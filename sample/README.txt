@@ -1,6 +1,6 @@
 语料库样本（200 句）
 
-本文件是老年群体推销话语语料库的验收样本。从全量 5,008 句中抽取 200 句，直播 130 句（A 路 70、B 路 60）、短视频 70 句，字段与判定口径与全量一致。
+本文件是老年群体推销话语语料库的验收样本。从全量 4,997 句中抽取 200 句，直播 130 句（A 路 70、B 路 60）、短视频 70 句，字段与判定口径与全量一致。
 
 一、字段
 
@@ -26,12 +26,11 @@
 
   总句数：200，直播 130、短视频 70
 
-  言语行为：assertive 127、directive 62、commissive 4、expressive 3、
-            declaration 2、other 2
+  言语行为：assertive 131、directive 54、commissive 8、expressive 4、
+            declaration 2、other 1
 
-  说服策略：non_strategy 117、logical 43、emotion 21、credibility 12、
-            foot_in_door 2、personal_story 2、self_modeling 1、
-            task_inquiry 1、personal_inquiry 1
+  说服策略：non_strategy 110、logical 47、emotion 20、credibility 18、
+            personal_story 3、foot_in_door 1、self_modeling 1
 
 四、一致性
 
@@ -41,4 +40,4 @@
 
 五、全量语料
 
-  全量 5,008 句、162,915 字（含标点），字段与标注体系与本样本完全一致。
+  全量 4,997 句、162,395 字（含标点），字段与标注体系与本样本完全一致。

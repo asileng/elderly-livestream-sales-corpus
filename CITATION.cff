@@ -1,7 +1,7 @@
 ﻿cff-version: 1.2.0
 message: "引用本语料库时请使用以下信息。"
 title: "老年群体推销话语语料库"
-abstract: "中文直播带货与健康类短视频的转写及句级双层标注语料，共 5,008 句。"
+abstract: "中文直播带货与健康类短视频的转写及句级双层标注语料，共 4,997 句。"
 version: "1.0"
 date-released: "2026-11-13"
 license: "CC-BY-NC-SA-4.0"
