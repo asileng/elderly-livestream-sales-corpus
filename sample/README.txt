@@ -11,7 +11,6 @@
   p4g        说服策略：logical / emotion / credibility / foot_in_door / self_modeling /
              personal_story / donation_info / source_inquiry / task_inquiry /
              personal_inquiry / non_strategy
-  note       判定说明
 
 标注
 

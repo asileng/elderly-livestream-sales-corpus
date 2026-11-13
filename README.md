@@ -8,7 +8,7 @@
 
 ## 字段
 
-每行一句，共六列。`id` 是句号，`L0001` 起为直播、`V0001` 起为短视频；`subcorpus` 标 `live` 或 `shortvideo`；`text` 是句子文本；`searle` 与 `p4g` 是两层标签；`note` 记录判定说明。
+每行一句，共五列。`id` 是句号，`L0001` 起为直播、`V0001` 起为短视频；`subcorpus` 标 `live` 或 `shortvideo`；`text` 是句子文本；`searle` 与 `p4g` 是两层标签；`note` 记录判定说明。
 
 ## 标注
 
